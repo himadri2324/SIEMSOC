@@ -61,6 +61,7 @@
   <img src="" 
        alt="SIEMSOC Architecture Diagram" width="750"/>
 </p>
+This architecture flow illustrates how Windows authentication events are collected, ingested, detected, and investigated using Elastic SIEM in a SOC workflow.
 
 ---
 
