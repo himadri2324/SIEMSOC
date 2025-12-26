@@ -50,9 +50,10 @@
 
 ## 🖧 **Network Architecture Diagram:**
 <p align="center">
-<img src=""
+<img src="https://github.com/himadri2324/SIEMSOC/blob/main/SIEMSOC%20Network%20Architecture%20Diagram.png"
   alt="SIEMSOC Network Architecture Diagram" width="750"/>
   </p>
+  This network architecture illustrates how Windows security events are securely forwarded via Winlogbeat to an Elastic SIEM server for detection and SOC analyst investigation.
 
 ---
 
